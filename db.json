@@ -2,54 +2,48 @@
   "places": [
     {
       "id": 1,
-      "title": "Eiffel Tower, Paris",
-      "description": "The iconic iron tower in Paris, offering breathtaking views of the city and a symbol of romance.",
-      "image": "https://images.unsplash.com/photo-1543349686-2c6e0f7b2f2d?w=1600&h=800&fit=crop"
-    },
-    {
-      "id": 2,
       "title": "Great Wall of China",
       "description": "An ancient world wonder stretching across mountains and valleys, reflecting China's rich history.",
       "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1600&h=800&fit=crop"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Taj Mahal, India",
       "description": "A magnificent white marble mausoleum built as a symbol of love and one of the Seven Wonders.",
       "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=1600&h=800&fit=crop"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Statue of Liberty, New York",
       "description": "A global symbol of freedom standing proudly in New York Harbor, welcoming visitors from around the world.",
       "image": "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?w=1600&h=800&fit=crop"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Santorini, Greece",
       "description": "Famous for its whitewashed buildings, blue domes, and stunning sunsets over the Aegean Sea.",
       "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1600&h=800&fit=crop"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Sydney Opera House, Australia",
       "description": "A world-famous architectural landmark located on Sydney Harbour with a distinctive sail-like design.",
       "image": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=1600&h=800&fit=crop"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Dubai Skyline, UAE",
       "description": "A futuristic skyline featuring the Burj Khalifa and luxury architecture in the heart of the desert.",
       "image": "https://images.unsplash.com/photo-1498496294664-d9372eb521f3?w=1600&h=800&fit=crop"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Colosseum, Rome",
       "description": "A massive ancient amphitheater that stands as a reminder of the Roman Empire’s grandeur.",
       "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?w=1600&h=800&fit=crop"
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Niagara Falls, Canada",
       "description": "A powerful and awe-inspiring waterfall attracting millions of visitors every year.",
       "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=1600&h=800&fit=crop"
