@@ -26,27 +26,9 @@
     },
     {
       "id": 5,
-      "title": "Sydney Opera House, Australia",
-      "description": "A world-famous architectural landmark located on Sydney Harbour with a distinctive sail-like design.",
-      "image": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=1600&h=800&fit=crop"
-    },
-    {
-      "id": 6,
-      "title": "Dubai Skyline, UAE",
-      "description": "A futuristic skyline featuring the Burj Khalifa and luxury architecture in the heart of the desert.",
-      "image": "https://images.unsplash.com/photo-1498496294664-d9372eb521f3?w=1600&h=800&fit=crop"
-    },
-    {
-      "id": 7,
       "title": "Colosseum, Rome",
       "description": "A massive ancient amphitheater that stands as a reminder of the Roman Empire’s grandeur.",
       "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?w=1600&h=800&fit=crop"
-    },
-    {
-      "id": 8,
-      "title": "Niagara Falls, Canada",
-      "description": "A powerful and awe-inspiring waterfall attracting millions of visitors every year.",
-      "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=1600&h=800&fit=crop"
     }
   ]
 }
